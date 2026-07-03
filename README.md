@@ -1,4 +1,6 @@
 # Foxhole-NATO-Symbology
+Currently a WIP.
+
 Collection of SVGs of NATO Symbology for the game Foxhole.
 
 Currently a small number of symbols have been created for the Warden Enemy side.
