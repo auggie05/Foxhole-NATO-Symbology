@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="EpillboxAT.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="81.750001"
+     inkscape:cy="4.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.52916664"
+       spacingy="0.52916664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="opacity:1;fill:#000000;stroke-width:9.65166"
+       d="M 11.973675 -11.973675 L 11.973675 11.973675 L 35.921024 11.973675 L 35.921024 -11.973675 L 11.973675 -11.973675 z M 12.72203 -11.22532 L 35.17267 -11.22532 L 35.17267 11.22532 L 12.72203 11.22532 L 12.72203 -11.22532 z "
+       transform="rotate(45)"
+       inkscape:label="outline" />
+    <rect
+       style="fill:#0058a0;fill-opacity:0.40000001;stroke-width:9.04843"
+       id="rect1-2"
+       width="22.45064"
+       height="22.45064"
+       x="12.722031"
+       y="-11.22532"
+       transform="rotate(45)"
+       inkscape:label="infill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="symbol">
+    <g
+       id="g4"
+       inkscape:label="ATpillbox"
+       transform="matrix(0.87500021,0,0,0.87500021,-25.664594,9.524996)">
+      <path
+         id="path1"
+         style="fill:#000000;stroke-width:13.1369"
+         d="M 43.391667,8.193546 41.275,12.56344 h -1.058333 v 4.369893 H 57.15 V 12.56344 H 56.091667 L 53.975,8.193546 Z m 3.704166,1.6387104 h 1.5875 1.5875 V 10.92473 h -3.175 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.5726px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.47276"
+         x="38.040585"
+         y="8.2975235"
+         id="text4"
+         transform="scale(1.0850253,0.92163746)"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-weight:bold;stroke-width:1.47276"
+           x="38.040585"
+           y="8.2975235">AT</tspan></text>
+    </g>
+  </g>
+</svg>

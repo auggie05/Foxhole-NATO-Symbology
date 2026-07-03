@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="EpillboxRF.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="61.871844"
+     inkscape:cy="10.253048"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.52916664"
+       spacingy="0.52916664"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="opacity:1;fill:#000000;stroke-width:9.65166"
+       d="M 11.973675 -11.973675 L 11.973675 11.973675 L 35.921024 11.973675 L 35.921024 -11.973675 L 11.973675 -11.973675 z M 12.72203 -11.22532 L 35.17267 -11.22532 L 35.17267 11.22532 L 12.72203 11.22532 L 12.72203 -11.22532 z "
+       transform="rotate(45)"
+       inkscape:label="outline" />
+    <rect
+       style="fill:#0058a0;fill-opacity:0.40000001;stroke-width:9.04843"
+       id="rect1-2"
+       width="22.45064"
+       height="22.45064"
+       x="12.722031"
+       y="-11.22532"
+       transform="rotate(45)"
+       inkscape:label="infill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="symbol">
+    <g
+       id="g4-7"
+       inkscape:label="RFpillbox"
+       transform="matrix(0.87499992,0,0,0.87499992,-25.66458,9.5269994)">
+      <path
+         id="path1"
+         style="fill:#000000;stroke-width:12.93"
+         d="m 50.799997,14.816666 v 1.058332 h 2.116668 v 3.175 h -2.116668 v 4.233335 h 16.933335 v -4.233335 h -2.116666 v -3.175 h 2.116666 v -1.058332 z m 3.175,1.058332 h 10.583335 v 3.175 H 53.974997 Z"
+         transform="translate(-10.583331,-6.3499996)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.1077px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.54086"
+         x="35.427109"
+         y="8.6811829"
+         id="text4-1"
+         transform="scale(1.1351945,0.88090629)"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           x="35.427109"
+           y="8.6811829"
+           style="stroke-width:1.54086">RF</tspan></text>
+    </g>
+  </g>
+</svg>
